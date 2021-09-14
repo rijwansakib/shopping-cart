@@ -64,6 +64,16 @@ body {
 .cart-main {
   padding-right: 30px;
 }
+
+/* button color */
+.buy-now{
+  background-color: #00adff !important;
+  border: none;
+}
+#details-btn{
+  background-color: #00ff73 !important;
+  border: none;
+}
 @media only screen and (max-width: 768px) {
   #all-products {
     display: grid;
